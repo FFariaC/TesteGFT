@@ -5,7 +5,7 @@
 ## Segundo exercício - arquivo: Elefantinho
 
 ## Terceiro exercício - arquivos:
-* Operacao (Classe abstrata
+* Operacao (Classe abstrata)
 * Soma
 * Subtracao
 * Multiplicacao
